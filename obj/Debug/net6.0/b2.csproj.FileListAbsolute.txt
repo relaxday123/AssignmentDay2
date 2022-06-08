@@ -1,0 +1,15 @@
+I:\My Drive\nash\c# fundamental\b2\obj\Debug\net6.0\b2.csproj.AssemblyReference.cache
+I:\My Drive\nash\c# fundamental\b2\obj\Debug\net6.0\b2.GeneratedMSBuildEditorConfig.editorconfig
+I:\My Drive\nash\c# fundamental\b2\obj\Debug\net6.0\b2.AssemblyInfoInputs.cache
+I:\My Drive\nash\c# fundamental\b2\obj\Debug\net6.0\b2.AssemblyInfo.cs
+I:\My Drive\nash\c# fundamental\b2\obj\Debug\net6.0\b2.csproj.CoreCompileInputs.cache
+I:\My Drive\nash\c# fundamental\b2\bin\Debug\net6.0\b2.exe
+I:\My Drive\nash\c# fundamental\b2\bin\Debug\net6.0\b2.deps.json
+I:\My Drive\nash\c# fundamental\b2\bin\Debug\net6.0\b2.runtimeconfig.json
+I:\My Drive\nash\c# fundamental\b2\bin\Debug\net6.0\b2.dll
+I:\My Drive\nash\c# fundamental\b2\bin\Debug\net6.0\b2.pdb
+I:\My Drive\nash\c# fundamental\b2\obj\Debug\net6.0\b2.dll
+I:\My Drive\nash\c# fundamental\b2\obj\Debug\net6.0\refint\b2.dll
+I:\My Drive\nash\c# fundamental\b2\obj\Debug\net6.0\b2.pdb
+I:\My Drive\nash\c# fundamental\b2\obj\Debug\net6.0\b2.genruntimeconfig.cache
+I:\My Drive\nash\c# fundamental\b2\obj\Debug\net6.0\ref\b2.dll
