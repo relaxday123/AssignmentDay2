@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "I:\\My Drive\\nash\\c# fundamental\\b2\\b2.csproj": {}
+    "i:\\My Drive\\nash\\c# fundamental\\b2\\b2.csproj": {}
   },
   "projects": {
-    "I:\\My Drive\\nash\\c# fundamental\\b2\\b2.csproj": {
+    "i:\\My Drive\\nash\\c# fundamental\\b2\\b2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\My Drive\\nash\\c# fundamental\\b2\\b2.csproj",
+        "projectUniqueName": "i:\\My Drive\\nash\\c# fundamental\\b2\\b2.csproj",
         "projectName": "b2",
-        "projectPath": "I:\\My Drive\\nash\\c# fundamental\\b2\\b2.csproj",
+        "projectPath": "i:\\My Drive\\nash\\c# fundamental\\b2\\b2.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "I:\\My Drive\\nash\\c# fundamental\\b2\\obj\\",
+        "outputPath": "i:\\My Drive\\nash\\c# fundamental\\b2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
